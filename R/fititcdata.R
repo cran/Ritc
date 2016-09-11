@@ -1,6 +1,4 @@
 fititcdata=function(x="inputparam.txt", y="itcout"){
-	library("minpack.lm"); 
-
 	inputdata1=read.csv(x, colClass="character", header=FALSE, comment.char="#", strip.white=TRUE);
 	itcdata1=importorigin(inputdata1[1,2]);
 	constantparam=as.list(as.numeric(inputdata1[2:5,2]));

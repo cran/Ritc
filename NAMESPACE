@@ -3,3 +3,8 @@ export(fititcdata, importorigin, itcONE11, residNDH11, XMt_func, rmlastna)
 import(
   minpack.lm
 )
+
+importFrom("grDevices", "dev.off", "pdf", "postscript")
+importFrom("graphics", "lines", "par", "plot", "text")
+importFrom("stats", "coef")
+importFrom("utils", "read.csv")
