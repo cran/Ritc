@@ -1,5 +1,5 @@
-376e61959756b9bba0b815600288a367 *DESCRIPTION
-09bce9fc02716a66836076324f6f267d *NAMESPACE
+6aa7ee3e0246881bb9e03ead16b5fe2d *DESCRIPTION
+b74e83a435d3f31369822a05092cb53b *NAMESPACE
 f0e42dc6eeeb6bea13de7eec73142404 *R/XMt_func.R
 ac6ddbfcbb2a09786879e47fdb75ff83 *R/fititcdata.R
 0a68dd986cc1b7ce38004fa8abec934c *R/importorigin.R
@@ -8,13 +8,12 @@ f7f855fafc3aaaf0e677bd53023bf6a8 *R/residNDH11.R
 b9b5a02d1a6bc2b7bd9d87ba90f645f0 *R/rmlastna.R
 f70989d38ae19aa06929d77566d35fd9 *data/data_inputparam1.RData
 a95de742cfd19884ef767a6bd9b6a6fb *data/data_origin1.RData
-cb845593fb498967457bd38cf542d533 *inst/extdata/B110711CD4.CSV
-70dafa5fd8ee687c2ef05bcf5eeec17e *inst/extdata/inputparam.txt
-8cc80c2abcd1d560b2aec96d637dc385 *man/XMt_func.Rd
+76234108a4b9706591c3a699fdcb6f8e *inst/citation.html
+0516de7a307ec55dc8b100f1b5863e65 *man/XMt_func.Rd
 5e21aea6fa37915bcc0a63154a8688a1 *man/data_inputparam1.Rd
 388c73ecb909d6c02ee7b3e4b4116623 *man/data_origin1.Rd
-cbbddbb1fb2b6e0ae6fee809c66e1346 *man/fititcdata.Rd
-c014cc6ce28bb53e98d07a6504a17a2f *man/importorigin.Rd
-fe240d08323aba43302a74dc3f0d6fde *man/itcONE11.Rd
+16c4d3254f6178975a57fada590633ce *man/fititcdata.Rd
+8e9b02b093ed45f16b3c30bd1ce35b86 *man/importorigin.Rd
+ce95e3ff825834a3e81a77bd56456d4b *man/itcONE11.Rd
 f59f2e256e0119abde6ea745ffb504ff *man/residNDH11.Rd
 215ee2753032b60f7416509ace9ea522 *man/rmlastna.Rd

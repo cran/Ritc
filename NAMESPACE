@@ -5,6 +5,6 @@ import(
 )
 
 importFrom("grDevices", "dev.off", "pdf", "postscript")
-importFrom("graphics", "lines", "par", "plot", "text")
+importFrom("graphics", "lines", "par", "text")
 importFrom("stats", "coef")
 importFrom("utils", "read.csv")

@@ -29,6 +29,7 @@ DH,INJV,Xt,Mt,XMt,NDH,B
 \seealso{\code{\link{itcONE11}} }
 
 \examples{
+\dontrun{
 data(data_origin1);
 
 ## using the loaded data to generate an Origin7 data file as input
@@ -36,6 +37,7 @@ write.csv(data_origin1, "origin_data.csv", quote=FALSE, row.names=FALSE)
 
 ## import data
 x1 <- importorigin("origin_data.csv");
+}
 }
 
 \keyword{Isothermal Titration Calorimetry (ITC)}

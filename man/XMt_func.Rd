@@ -41,12 +41,13 @@ Tellinghuisen, J. 2007 Calibration in isothermal titration calorimetry: heat and
 \seealso{\code{\link{itcONE11}}}
 
 \examples{
+\dontrun{
 a <- list(P0=0.01, L0=0, Asyr=0.2, V0=1.4195);
 
 injv <- rep(10,30);
 
 dh2 <- XMt_func(stapar=a, injV0=injv);
 }
-
+}
 \keyword{Isothermal Titration Calorimetry (ITC)}
 
